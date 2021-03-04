@@ -1,0 +1,13 @@
+C:\Users\Afrin\source\repos\CheckCount\CheckCount\bin\Debug\netcoreapp3.1\CheckCount.exe
+C:\Users\Afrin\source\repos\CheckCount\CheckCount\bin\Debug\netcoreapp3.1\CheckCount.deps.json
+C:\Users\Afrin\source\repos\CheckCount\CheckCount\bin\Debug\netcoreapp3.1\CheckCount.runtimeconfig.json
+C:\Users\Afrin\source\repos\CheckCount\CheckCount\bin\Debug\netcoreapp3.1\CheckCount.runtimeconfig.dev.json
+C:\Users\Afrin\source\repos\CheckCount\CheckCount\bin\Debug\netcoreapp3.1\CheckCount.dll
+C:\Users\Afrin\source\repos\CheckCount\CheckCount\bin\Debug\netcoreapp3.1\CheckCount.pdb
+C:\Users\Afrin\source\repos\CheckCount\CheckCount\obj\Debug\netcoreapp3.1\CheckCount.csprojAssemblyReference.cache
+C:\Users\Afrin\source\repos\CheckCount\CheckCount\obj\Debug\netcoreapp3.1\CheckCount.AssemblyInfoInputs.cache
+C:\Users\Afrin\source\repos\CheckCount\CheckCount\obj\Debug\netcoreapp3.1\CheckCount.AssemblyInfo.cs
+C:\Users\Afrin\source\repos\CheckCount\CheckCount\obj\Debug\netcoreapp3.1\CheckCount.csproj.CoreCompileInputs.cache
+C:\Users\Afrin\source\repos\CheckCount\CheckCount\obj\Debug\netcoreapp3.1\CheckCount.dll
+C:\Users\Afrin\source\repos\CheckCount\CheckCount\obj\Debug\netcoreapp3.1\CheckCount.pdb
+C:\Users\Afrin\source\repos\CheckCount\CheckCount\obj\Debug\netcoreapp3.1\CheckCount.genruntimeconfig.cache
