@@ -18,7 +18,7 @@ namespace CheckCount
 
                     Method1(lst);
                     Method2(lst);
-                    Task.Delay(100).Wait();
+                    Task.Delay(2000).Wait();
                 }
             });
 
@@ -28,7 +28,7 @@ namespace CheckCount
                 {
 
                     var data= CheckCount(lst);
-                    Task.Delay(500).Wait();
+                    Task.Delay(5000).Wait();
                 }
             });
 
